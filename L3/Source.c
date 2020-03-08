@@ -13,7 +13,7 @@ void bitWise(int a, int b) {
 	printf("a = %d, b = %d\n", a, b);
 }
 
-int main()
+void main()
 {
 	int a;
 	int b;
@@ -27,5 +27,4 @@ int main()
 		bitWise(a, b);
 		
 	system("pause");
-	return 0;
 }
