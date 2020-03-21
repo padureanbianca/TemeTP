@@ -2,6 +2,8 @@
 #include<string.h>
 #include<stdlib.h>
 #include<ctype.h>
+/*Sa se scrie un program care calculeaza suma elementelor unui
+vector folosindu-ne doar de variabile de tip pointer.*/
 
 int main()
 {
