@@ -2,7 +2,7 @@
 #include<string.h>
 #include<stdlib.h>
 #include<ctype.h>
-
+//Sa se inverseze doua numere naturale fara a se folosii de o variabila auxiliara, ci doar operatii bit wise. 
 void bitWise(int a, int b) {
 	/* Rezolvare cu bit wise */
 	if (a != b) {
